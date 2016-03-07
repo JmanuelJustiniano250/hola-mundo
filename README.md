@@ -1,2 +1,2 @@
 # hola-mundo
-Prueba de Repositor
+Prueba de Repositor de maestro
